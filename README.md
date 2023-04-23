@@ -1,5 +1,5 @@
 # explorations_over_privacyattacks
-This repository is exploration of interaction between basic privacy attacks and defenses using AIJack library.
+This repository is exploration of interaction between basic Membership Inference Attack (MIA), Model Inversion (MI) and Differential Privacy (DP) and Mutual Information Regularization
 
 ## Case Studies:
 
