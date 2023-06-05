@@ -23,12 +23,12 @@ This repository is exploration of interaction between basic Membership Inference
 ![image](https://user-images.githubusercontent.com/47445756/233845407-2c7a6305-32c0-43b0-b663-fe9432950412.png)
 
 
-### 5. First MIA
+### 5. First MI
 
 ![image](https://user-images.githubusercontent.com/47445756/233845442-54389f11-2c5f-4f43-b221-9ba2febb6f32.png)
 
 
-### 6. First MIA from first four layers
+### 6. First MI from first four layers
 
 ![image](https://user-images.githubusercontent.com/47445756/233845485-dfbbc625-f3b5-4a43-9625-cd310861db91.png)
 
